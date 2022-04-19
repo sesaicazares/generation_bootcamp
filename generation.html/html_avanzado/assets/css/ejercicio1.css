@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine
+}
+
+em{
+    font-style: oblique;
+}
+.border{
+    border-collapse: 1px;
+}
