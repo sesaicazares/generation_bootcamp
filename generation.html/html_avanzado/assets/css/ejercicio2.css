@@ -1,6 +1,26 @@
+.formulario{
+    background-color: green;
+    color: white;
+    padding: 50px;
+    border: 5px solid rgb(116, 184, 211);
+    border-radius: 10px;
+    width: 400px;
+    margin: 0 auto
+}
+
+label{
+    padding-left: 30px;
+    display: inline-block;
+    width: 50px;
+}
 
 .formaColor{
-    border: 10px;
-    border-radius: 10px solid red;
-    margin-bottom: 5px;
+    border: 2px solid red;
+    margin-left: 20px;
+}
+
+.enviar{
+    border-top: 2px dashed white;
+    margin-top: 20px;
+    padding-top: 20px;
 }

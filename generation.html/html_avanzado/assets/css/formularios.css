@@ -1,4 +1,4 @@
-.h{
+h1{
     text-align: center;
 }
 .formulario{
@@ -6,6 +6,8 @@
     padding: 10px;
     background-color: rgb(200, 147, 251);
     border-radius: 10px;
+    width: 300px;
+    margin: 0 auto
 }
 
 .formaColor{
