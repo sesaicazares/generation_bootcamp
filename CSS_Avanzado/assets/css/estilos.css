@@ -14,12 +14,16 @@
     /* display: inline-block; */
 }
 
-/* 
+/*
+Propiedades de movimiento:
+Se utilizan:
+left: 100px; Se interpreta como 100px hacia la izquierda (moviendo hacia la derecha el elemento)
 bottom
 top
 left
 right
-
+Se puede utilizar valores negativos y es equivalente a la otra propiedad
+bottom: -xpx = top: xpx
 */
 
 /* h1{
