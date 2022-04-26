@@ -1,0 +1,46 @@
+.padre{
+    width: 80%;
+    height: 60vh;
+    border: 1px solid red;
+    margin: 0 auto;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+
+/* row (fila)
+justify content los acomoda horizontalmente
+(izquierda a derecha)
+ 
+align-items los acomoda verticalmente
+(arriba a abajo)
+
+column
+align-items los acomoda horizontalmente
+(izquierda a derecha)
+
+justify content los acomoda verticalmente
+(arriba a abajo)
+
+*/
+
+.hijo{
+    width: 60px;
+    height: 60px;
+    border: 1px solid black;
+    
+}
+
+.div1{
+    background-color: pink;
+}
+
+.div2{
+    background-color: yellowgreen;
+}
+
+.div3{
+    background-color: cadetblue;
+}
